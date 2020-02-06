@@ -1,3 +1,5 @@
 [user]
 	email = 1678@holbertonschool.com
 	name = Rodolfo Vazquez
+[push]
+	default = matching

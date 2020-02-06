@@ -256,3 +256,72 @@ holbertonschool-low_level_programming/
 ls
 cd holbertonschool-low_level_programming/
 l
+git add -A
+git commit -m "adding 0 and 1"
+git push
+rmdir holbertonschool-zero_day/
+rm -r holbertonschool-zero_day/
+ls
+git push
+.git/config
+su .git/config
+git remote -v
+git remove remove origin
+git remote remove origin
+ld
+ls
+git remote add origin
+git remote add origin https://github.com/rodolfo998/holbertonschool-zero_day.git
+git add -A
+git commit -m "adding 0 and 1"
+git push
+git pull
+git push
+git remote remove origin
+git remote origin master
+git remote add origin https://github.com/rodolfo998/holbertonschool-low_level_programming.git
+git push
+git add -A
+git commit -m "adding 0 and 1"
+cd holbertonschool-low_level_programming/
+ls
+cd 0x00-hello_world/
+ls
+chmod u+x
+chmod u+x 0-preprocessor 
+chmod u+x 1-compiler 
+nano 2-assembler
+chmod u+x 2-assembler 
+cd ..
+git add -A
+git commit -m "adding 0-2"
+git push
+git config --global push.default matching
+git push
+git push origin master
+cd 
+git remote -v 
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/rodolfo998/holbertonschool-zero_day
+git remote -v
+cd holbertonschool-low_level_programming/
+cd 0x00-hello_world/
+betty 0-preprocessor 
+betty 1-compiler 
+betty 2-assembler 
+ls
+nano 3-name
+nano 4-puts.c
+ls
+nano 0-preprocessor 
+chmod u+x 3-name 
+chmod u+x 4-puts.c 
+cd ..
+git add --all
+git add -A ~/holbertonschool-low_level_programming/
+git commit -m "addin 3 adn 4"
+git push
+git pull
+git pull origin master
+git push
