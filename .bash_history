@@ -230,3 +230,29 @@ l -l
 nano 100-empty_casks 
 ./100-empty_casks 
 man find
+cd ..
+git add -A
+fit commit -m "adding 0 and 1"
+git commit -m "adding 0 and 1"
+git push
+cd ..
+git add -A
+git commit -m "adding 0 and 1"
+git push
+git pull
+ls
+git clone https://github.com/rodolfo998/holbertonschool-zero_day.git
+git pull
+git push
+ls
+cd holberton-system_engineering-devops/
+ls
+cd ..
+cd holbertonschool-zero_day/
+ls
+cd ..
+ls
+holbertonschool-low_level_programming/
+ls
+cd holbertonschool-low_level_programming/
+l
